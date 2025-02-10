@@ -1,8 +1,2 @@
-#include <stdio.h>
-
-int main() {
-    for (int i = 0; i <= 10; i++) {
-        printf("%d\n", i);
-    }
-    return 0;
-}
+Hi 
+from today onwards this repository is going to save the c programs and projects that are going to created by me or by my team 
