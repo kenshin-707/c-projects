@@ -1,2 +1,2 @@
 Hi 
-from today onwards this repository is going to save the c programs and projects that are going to created by me or by my team 
+from today onwards this repository is going to save the c programs and projects that are going to created by me or by my team .
